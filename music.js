@@ -263,8 +263,8 @@ back.addEventListener('click', () => {
     if (index < 1) {
         index = Array.from(document.getElementsByClassName('songitems')).length;
     }
-    music.src = `/${index}.mp3`;
-    poster_master_play.src = `/${index}.jpg`;
+    music.src = `${index}.mp3`;
+    poster_master_play.src = `${index}.jpg`;
     music.play();
     let song_title = songs.filter((ele) => {
         return ele.id == index;
@@ -288,8 +288,8 @@ next.addEventListener('click', () => {
     if (index > Array.from(document.getElementsByClassName('songitems')).length) {
         index = 1;
     }
-    music.src = `/${index}.mp3`;
-    poster_master_play.src = `/${index}.jpg`;
+    music.src = `${index}.mp3`;
+    poster_master_play.src = `${index}.jpg`;
     music.play();
     let song_title = songs.filter((ele) => {
         return ele.id == index;
