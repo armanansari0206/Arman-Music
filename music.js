@@ -43,72 +43,72 @@ const songs = [
     {
         id: "8",
         songName: `Halamithi Habibo <br><div class="subtitle">Beast</div>`,
-        poster: "img/8.jpg",
+        poster: "8.jpg",
     },
     {
         id: "9",
         songName: `Gali Gali <br><div class="subtitle">KGF</div>`,
-        poster: "img/9.jpg",
+        poster: "9.jpg",
     },
     {
         id: "10",
         songName: `One Two Three Four <br><div class="subtitle">Chennai Express</div>`,
-        poster: "img/10.jpg",
+        poster: "10.jpg",
     },
     {
         id: "11",
         songName: `Baithe Baithe <br><div class="subtitle">Album</div>`,
-        poster: "img/11.jpg",
+        poster: "11.jpg",
     },
     {
         id: "12",
         songName: `Vaaste <br><div class="subtitle">Dhvani Bhanushali</div>`,
-        poster: "img/12.jpg",
+        poster: "12.jpg",
     },
     {
         id: "13",
         songName: `Mann Bharrya <br><div class="subtitle">B Praak</div>`,
-        poster: "img/13.jpg",
+        poster: "13.jpg",
     },
     {
         id: "14",
         songName: `Lut Gaye <br><div class="subtitle">Jubin Nautiyal</div>`,
-        poster: "img/14.jpg",
+        poster: "14.jpg",
     },
     {
         id: "15",
         songName: `Dilbar Dilbar <br><div class="subtitle">Satyameva Jayate</div>`,
-        poster: "img/15.jpg",
+        poster: "15.jpg",
     },
     {
         id: "16",
         songName: `Naacho Naacho <br><div class="subtitle">RRR</div>`,
-        poster: "img/16.jpg",
+        poster: "16.jpg",
     },
     {
         id: "17",
         songName: `Lagdi Lahore Di <br><div class="subtitle">Street Dancer 3D</div>`,
-        poster: "img/17.jpg",
+        poster: "17.jpg",
     },
     {
         id: "18",
         songName: `Ae Dil Hai Mushkil <br><div class="subtitle">Putt Jatt Da</div>`,
-        poster: "img/18.jpg",
+        poster: "18.jpg",
     },
     {
         id: "19",
         songName: `Suna Hai <br><div class="subtitle">Neha Kakker</div>`,
-        poster: "img/19.jpg",
+        poster: "19.jpg",
     },
     {
         id: "20",
         songName: `Agar Tum Sath Ho <br><div class="subtitle">Tamashaa</div>`,
-        poster: "img/20.jpg",
+        poster: "20.jpg",
     },
     {
         id: "21",
         songName: `Allah Hafiz <br><div class="subtitle">Bhool Bhulaiyaa</div>`,
-        poster: "img/21.jpg",
+        poster: "21.jpg",
     },
 ]
 
