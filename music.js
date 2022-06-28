@@ -157,8 +157,8 @@ Array.from(document.getElementsByClassName('playListPlay')).forEach((element) =>
         makeAllPlays();
         e.target.classList.remove('bi-play-circle-fill');
         e.target.classList.add('bi-pause-circle-fill');
-        music.src = `audio/${index}.mp3`;
-        poster_master_play.src = `img/${index}.jpg`;
+        music.src = `${index}.mp3`;
+        poster_master_play.src = `${index}.jpg`;
         music.play();
         let song_title = songs.filter((ele) => {
             return ele.id == index;
@@ -263,8 +263,8 @@ back.addEventListener('click', () => {
     if (index < 1) {
         index = Array.from(document.getElementsByClassName('songitems')).length;
     }
-    music.src = `audio/${index}.mp3`;
-    poster_master_play.src = `img/${index}.jpg`;
+    music.src = `/${index}.mp3`;
+    poster_master_play.src = `/${index}.jpg`;
     music.play();
     let song_title = songs.filter((ele) => {
         return ele.id == index;
@@ -288,8 +288,8 @@ next.addEventListener('click', () => {
     if (index > Array.from(document.getElementsByClassName('songitems')).length) {
         index = 1;
     }
-    music.src = `audio/${index}.mp3`;
-    poster_master_play.src = `img/${index}.jpg`;
+    music.src = `/${index}.mp3`;
+    poster_master_play.src = `/${index}.jpg`;
     music.play();
     let song_title = songs.filter((ele) => {
         return ele.id == index;
