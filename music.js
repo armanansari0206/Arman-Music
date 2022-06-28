@@ -5,40 +5,40 @@ const songs = [
         id: '1',
         songName: ` On My Way <br>
         <div class="subtitle">Alan Walker</div>`,
-        poster: "img/1.jpg"
+        poster: "1.jpg"
     },
     {
         id: '2',
         songName: ` Aye Mere Ghazi <br>
         <div class="subtitle">Ertugrul Ghazi</div>`,
-        poster: "img/2.jpg"
+        poster: "2.jpg"
     },
     // all object type 
     {
         id: "3",
         songName: `Banjaara <br><div class="subtitle">Ek Tha Tiger</div>`,
-        poster: "img/3.jpg",
+        poster: "3.jpg",
     },
     {
         id: "4",
         songName: `Hookah Bar <br><div class="subtitle">Khiladi 786</div>`,
-        poster: "img/4.jpg",
+        poster: "4.jpg",
     },
     {
         id: "5",
         songName: `Ertugrul Gazi <br><div class="subtitle">Ertugrul</div>`,
-        poster: "img/5.jpg",
+        poster: "5.jpg",
     },
     {
         id: "6",
         songName: `Hangover <br><div class="subtitle">Kick</div>`,
-        poster: "img/6.jpg",
+        poster: "6.jpg",
     },
     {
         id: '7',
         songName: ` I Don't Know What To Do <br>
         <div class="subtitle">Housefull</div>`,
-        poster: "img/7.jpg"
+        poster: "7.jpg"
     },
     {
         id: "8",
